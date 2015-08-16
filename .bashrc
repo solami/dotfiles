@@ -4,4 +4,5 @@ alias vi=vim
 alias ls='ls -G'
 
 export PATH=${PATH}:/Users/naoki/Documents/bin
+export PS1='\W \$ '
 set -o vi
